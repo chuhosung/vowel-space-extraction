@@ -54,4 +54,5 @@ Special thanks to Santiago Barreda for the development of the [FastTrack](https:
 2. **Share the Project**: Share your project on social media or related communities to receive more feedback and contributions.
 
 This preparation will help others easily run and provide feedback on your 'vowel space automatic extraction' project! Feel free to reach out if you have any questions or need further clarification.
+This project utilizes the FastTrack script, © 2020 Santiago Barreda, licensed under the MIT License.
 
