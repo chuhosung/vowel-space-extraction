@@ -45,7 +45,7 @@ pip install -r requirements.txt
 - **Interpretation**: Analyzes whether the tongue movement was more forward or backward and its impact on speech clarity.
 
 ## FastTrack Integration
-This project utilizes the FastTrack Praat script developed by Santiago Barreda. FastTrack generates Excel files with formant data at 0.02-second intervals. By analyzing these detailed formant data outputs, stable segments were identified to create a vowel triangle graph. This visual feedback is particularly useful for speech-language pathologists (SLPs), as it helps evaluate pronunciation accuracy and provide visual feedback to clients.
+This project utilizes the FastTrack Praat script developed by Santiago Barreda. FastTrack generates Excel files with formant data at 0.002-second intervals. By analyzing these detailed formant data outputs, stable segments were identified to create a vowel triangle graph. This visual feedback is particularly useful for speech-language pathologists (SLPs), as it helps evaluate pronunciation accuracy and provide visual feedback to clients.
 
 If you download the FastTrack technology developed by Santiago Barreda, you can automatically extract formant data in Praat. One of the features of FastTrack is that it extracts formant values every 0.02 seconds, and if you input the resulting Excel file into this Python code, it will extract stable segments and generate a vowel triangle graph.
 
